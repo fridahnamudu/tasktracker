@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/fridahnamudu/tasktracker/static/css/main.27e1529f.chunk.css",
+    "main.js": "/fridahnamudu/tasktracker/static/js/main.c1839e0c.chunk.js",
+    "main.js.map": "/fridahnamudu/tasktracker/static/js/main.c1839e0c.chunk.js.map",
+    "runtime-main.js": "/fridahnamudu/tasktracker/static/js/runtime-main.65b9f911.js",
+    "runtime-main.js.map": "/fridahnamudu/tasktracker/static/js/runtime-main.65b9f911.js.map",
+    "static/js/2.c93423d4.chunk.js": "/fridahnamudu/tasktracker/static/js/2.c93423d4.chunk.js",
+    "static/js/2.c93423d4.chunk.js.map": "/fridahnamudu/tasktracker/static/js/2.c93423d4.chunk.js.map",
+    "static/js/3.16b03a51.chunk.js": "/fridahnamudu/tasktracker/static/js/3.16b03a51.chunk.js",
+    "static/js/3.16b03a51.chunk.js.map": "/fridahnamudu/tasktracker/static/js/3.16b03a51.chunk.js.map",
+    "index.html": "/fridahnamudu/tasktracker/index.html",
+    "static/css/main.27e1529f.chunk.css.map": "/fridahnamudu/tasktracker/static/css/main.27e1529f.chunk.css.map",
+    "static/js/2.c93423d4.chunk.js.LICENSE.txt": "/fridahnamudu/tasktracker/static/js/2.c93423d4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.65b9f911.js",
+    "static/js/2.c93423d4.chunk.js",
+    "static/css/main.27e1529f.chunk.css",
+    "static/js/main.c1839e0c.chunk.js"
+  ]
+}
